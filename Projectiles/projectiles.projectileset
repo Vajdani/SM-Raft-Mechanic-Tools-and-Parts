@@ -1,0 +1,51 @@
+{
+   "projectiles" : [
+      {
+         "ammo" : {
+            "cost" : 1,
+            "uuid" : "4a971f7d-14e6-454d-bce8-0879243c4857"
+         },
+         "attachedEffect" : "Sledgehammer - Hit",
+         "audiomass" : 250.0,
+         "destruction" : {
+            "destructionLevels" : [
+               {
+                  "chance" : 1.0,
+                  "qualityLevel" : 1
+               },
+               {
+                  "chance" : 1.0,
+                  "qualityLevel" : 2
+               },
+               {
+                  "chance" : 1.0,
+                  "qualityLevel" : 3
+               },
+               {
+                  "chance" : 0.50,
+                  "qualityLevel" : 4
+               },
+               {
+                  "chance" : 0.20,
+                  "qualityLevel" : 5
+               },
+               {
+                  "chance" : 0.10,
+                  "qualityLevel" : 7
+               }
+            ]
+         },
+         "effect" : "Sledgehammer - Hit",
+         "effectmaterial" : "Metal",
+         "enableGravity" : true,
+         "enableImpactEffect" : true,
+         "friction" : 0.2000000029802322,
+         "mass" : 3.0,
+         "mesh" : "$CONTENT_DATA/Objects/Renderables/Projectiles/harpoon/harpoon.rend",
+         "name" : "harpoon",
+         "radius" : 0.250,
+         "spin" : 0.0,
+         "uuid" : "382c818f-bdf6-41fd-96dd-7a4a1a176d9a"
+      }
+   ]
+}

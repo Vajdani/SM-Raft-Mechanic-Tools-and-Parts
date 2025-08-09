@@ -1,0 +1,15 @@
+{
+   "shapeSetList" : [   
+      "$CONTENT_DATA/Objects/Database/ShapeSets/saplings.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/renders.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/plants.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/equipment.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/parts.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/interactive.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/consumables.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/tool_parts.shapeset",
+
+      "$SURVIVAL_DATA/Objects/Database/ShapeSets/plantables.json",
+      "$SURVIVAL_DATA/Objects/Database/ShapeSets/consumable.json"
+   ]
+}

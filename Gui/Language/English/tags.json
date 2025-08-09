@@ -1,0 +1,158 @@
+{
+    "SaplingGrow": "#00cc00Growing...",
+    "SaplingNeedLiquid": "Splash with liquid",
+    "SaplingNeedGround": "Place on the #ff0000ground",
+    "SaplingCantErase": "Can't erase sapling while its growing!",
+
+    "FarmerBallTalk": "Talk",
+    "FarmerBallHelp": "I was just using the bathroom because my bottle was full and now... Well, I sneaked in some explosives here a while ago. I've tried breaking the wall down there to get outside, but maybe you can finish the job now.",
+    "FarmerBallThanks": "Thanks, it's the first time I'm seeing sunlight in years! I can't wait to see crazy Bob again!",
+
+    "HarpoonPickup": "Picked up Harpoon",
+    "LogbookAdd": "Add to logbook",
+
+	"BinocularsZoomFactor": "Zoom Factor: ",
+
+    "CreationRotator_Title": "Creation Rotator",
+    "CreationRotator_Force": "Force Multiplier",
+    "CreationRotator_Ver_Hor": "Vertical + Horizontal",
+    "CreationRotator_Ver": "Vertical",
+    "CreationRotator_Hor": "Horizontal",
+    "CreationRotator_Roll": "Roll",
+    "CreationRotator_Mult": "Multiplier:",
+    "CreationRotator_CurrentMode": "Mode: #ffffff",
+    "CreationRotator_CurrentInput": "#4f4f4f Input method: #ffffff",
+    "CreationRotator_Input_mouse": "Mouse",
+    "CreationRotator_Input_wasd": "WASD",
+    "CreationRotator_SwitchInput": "switch input methods", 
+    "CreationRotator_AdjustForce": "adjust force multiplier",
+
+    "Switch_mode": "switch modes",
+
+    "WaterSensor_Title": "Water Sensor",
+    "WaterSensor_Radius_Title": "Sensing Radius(blocks)",
+    "WaterSensor_Radius": "Radius: %d blocks", 
+    "WaterSensor_CurrentRadius": "Sensing radius:#ffffff %d block(s)",
+    "WaterSensor_Visualization": " #4f4f4fVisualization: ",
+    "WaterSensor_Visualization_on": "#269e44ON",
+    "WaterSensor_Visualization_off": "#9e2626OFF",
+    "WaterSensor_Adjust_Radius": "adjust sensing radius",
+    "WaterSensor_Adjust_Vis": "toggle radius visualisation",
+
+    "Sail_Tie": "Tie up Sail",
+    "Sail_Lower": "Lower Sail",
+    "Sail_Controlled": "Controlled by logic",
+
+    "Trader": "#00bf00Trader#ffffff:",
+    "Trader_dialogue1": "Mhh.. Bertha.. I'll... OH! You.. are alive?! I'm glad to see another soul! Hm... Oh.. I think I know of a way we can eh- escape this planet. If you could bring Berth- eh, me some packed veggies, that would be great! Hehe.. I marked a nearby packing station for you. Pack 2 crates each of carrots and redbeets. Then you can bring them to big ol' Bertha- eh, the big pump over there.. Hehe.",
+    "Trader_dialogue2": "What a pleasant surprise to see you again! I mean, not that I expected your limbs to show up on the shores.. Ehm. Anyway, sadly the veggies are only part of the recip- eh plan. The other resources have been kept a secret. I did however detect abnormal Woc.. activity on a strange island nearby. You should investigate this.",
+    "Trader_dialogue3": "Perfect! Soon it will be min- eh, we will be able to leave this planet. *stares at notes* Ah... YES.. I KNEW IT! Muhahahahaa- Oh, sorry I'm not used to company, at least since the acciden- Anyway, you'll need to bring me 2 more crates each of blueberries and bananas. I've marked a nearby packing station for you.",
+    "Trader_dialogue4": "*Slurps* AH, just what I needed! It's been so long without you sunshake... Where are my manners? Why not get yourself some sunshake too? I can make as much as you need, as long as you bring me fresh supplies. Eh, of course this was necessary.. because.. the.. ah.. sunshake contains, ah, coordinates to some ruins. Since my life is saved by sunshake now, you might as well try to free the rest of my crew. I heard rumors about some key hidden in that ruined city. If I could get my hands on such a device, we might be able to start a rescue mission.",
+    "Trader_dialogue5": "I can't believe you are aliv- ah, so adventurous! Let me have a look at this key. AH.. YES.. Such a simple circuit... I should be able to recreate its circuitry easily with the right tools. But with this key, you should be able to enter the warehouses where the rest of my crew is held hostage for using the bathrooms instead of.. Just don't ask why there are so many water bottles in the ocean.. Anyway, reach the top of a warehouse and rescue one of them! Then come over to me and big ol' Bertha will take care of them.",
+    "Trader_dialogue6": "I've missed company for so long *sobs*. Keep rescuing more of my crew! In the meantime I'll think of a plan to get us all off this planet and return home...",
+    
+    "FishingBait": "Bait: ",
+    "FishingOutOfBait": "Out of Baits!",
+    "FishingBaitNone": "None",
+    "FishingGetItem": "Fished: ",
+
+    "JunkCollector_Full": "#ff0000Collector full",
+    "JunkCollector_SlotsOpen": "Remaining capacity:#ffffff %d slots",
+    "JunkCollector_Title": "Collection Net",
+    "JunkCollector_TakeAll": "Take all items",
+    "JunkCollector_TakeAll_Empty": "No items to collect!", 
+
+    "HammockAllPlayers": "All players need to sleep to skip night",
+    "HammockNight": "You can only sleep at night",
+
+    "AntennaInteract": "Send distress signal",
+
+    "ClamDivingSucks": "#ff88ffDid I already mention that I hate clam diving?",
+
+    "WrongTool": "You need better tools to break this harvestable",
+
+    "Tutorial_Dismiss": "Press %s to dismiss",
+    "Tutorial_Food": "Hunger",
+    "Tutorial_FoodText": "To survive in the ocean, you need to adapt your survival strategy. Luckily, fish are a great source of nutrients. Once you found enough soil, you could also try growing your own crops.",
+    "Tutorial_Water": "Thirst",
+    "Tutorial_WaterText": "Since the ocean is full of salt water, you need to find a way to make it drinkable. Perhaps it could be purified.",
+    "Tutorial_Fish": "Fishing",
+    "Tutorial_FishText": "1. Throw the hook into the water and wait.\n2. Let the fish nibble on the bait. (you will see a SMALL splash)\n3. Pull when you see a BIG SPLASH (you will also hear a sound)",
+    "Tutorial_Workbench": "Recipes",
+    "Tutorial_WorkbenchText": "Completing quests will unlock more items for you to craft!",
+    "Tutorial_Sail": "Sailing",
+    "Tutorial_SailText": "The wind sock shows you the current direction of the wind. Make sure your sails are catching the wind. Enjoy the ride!",
+    "Tutorial_Sleep": "Sleeping",
+    "Tutorial_SleepText": "After a hard day's work, relax in the hammock and dream. If all players are sleeping in a hammock you can skip the dark night time and wake up to the rising sun!",
+    "Tutorial_Shark": "SHARKS",
+    "Tutorial_SharkText": "Dangerous sharkbots roam the sea. They will attack you and your raft. Better get some defences for yourself and your raft before they do too much damage.",
+    "Tutorial_Farm": "Farming",
+    "Tutorial_FarmText": "Growing your own crops is a reliable way to feed yourself. If you ever run out of seeds, you can conveniently extract their seeds with the seed press.",
+    "Tutorial_OxygenTank": "Oxygen Tank",
+    "Tutorial_OxygenTankText": "The oxygen tank helps you breathe longer underwater. You can also connect it to seats for the same effect!",
+
+    "Quest_ItemUnlock": "New Recipe Unlocked: #00f000",
+
+    "Quest_Tutorial": "Stranded",
+    "Quest_Tutorial_Sleep": "Sleep in the hammock",
+    "Quest_Tutorial_Workbench": "Open the workbench",
+    "Quest_Tutorial_Hammer": "Craft a wooden hammer",
+
+    "Quest_RangerStation": "Space Ranger's Outpost",
+    "Quest_RangerStation_Logbook": "Read \"Space Ranger's Outpost\" log",
+    "Quest_RangerStation_Go_To": "Reach the outpost",
+    "Quest_RangerStation_Activate": "Find a way to activate the outpost",
+
+    "Quest_BuildRadio": "Anyone out there?",
+    "Quest_BuildRadio_Logbook": "Read \"Antenna Status\" log",
+    "Quest_BuildRadio_Craftbot": "Build a Craftbot",
+    "Quest_BuildRadio_Wood": "Craft 20 Wood Block 1",
+    "Quest_BuildRadio_Craft_Antenna": "Craft a Makeshift Radio Antenna",
+    "Quest_BuildRadio_Use_Antenna": "Send a distress signal",
+
+    "Quest_RadioSignal": "Rescue Mission",
+    "Quest_RadioSignal_Logbook": "Read \"Rescue Mission\" log",
+    "Quest_RadioSignal_Cotton": "Find cotton",
+    "Quest_RadioSignal_Windsock": "Craft a wind sock",
+    "Quest_RadioSignal_Sail": "Craft a sail",
+    "Quest_RadioSignal_FindWreck": "Reach the source of the distress signal",
+    "Quest_RadioSignal_ExploreWreck": "Explore the wreck for clues",
+
+    "QuestItemTooEarly": "I should investigate this later",
+
+    "Quest_FindTrader": "The tracks of the Trader",
+    "Quest_FindTrader_Logbook": "Read \"Trader's Notes\" log",
+    "Quest_FindTrader_ReachTrader": "Reach the island mentioned in the notes",
+    "Quest_FindTrader_TalkTrader": "Talk to the Trader",
+
+    "Quest_Vegetables": "Delivery Mechanic",
+    "Quest_Vegetables_Logbook": "Read \"Vegetables for Trader\" log",
+    "Quest_Vegetables_ReachStation": "Find the packing station",
+    "Quest_Vegetables_SuckCrates": "Deliver the crates to \"Bertha\"",
+
+    "Quest_WocTemple": "The Mystery of the Wocs",
+    "Quest_WocTemple_Logbook": "Read \"The Mystery of the Wocs\" log",
+    "Quest_WocTemple_ReachTemple": "Reach the island with abnormal woc activity",
+    "Quest_WocTemple_FindTemple": "Find the source of the abnormal woc activity",
+    "Quest_WocTemple_GetRecipe": "Explore the temple",
+
+    "SunshakeRecipe": "Sunshake Recipe",
+
+    "Quest_Fruits": "Delivery Mechanic (again)",
+    "Quest_Fruits_Logbook": "Read \"Fruits for Trader\" log",
+
+    "Quest_ScrapCity": "Lost Civilization",
+    "Quest_ScrapCity_Logbook": "Read \"Scrap City\" log",
+    "Quest_ScrapCity_ReachCity": "Reach the abandoned city",
+    "Quest_ScrapCity_FindRuin": "Find the tallest ruin",
+    "Quest_ScrapCity_GetKey": "Investigate the building for unusual objects",
+
+    "Quest_Warehouse": "The War(e)house",
+    "Quest_Warehouse_Logbook": "Read \"Warehouse Raid\" log",
+    "Quest_Warehouse_Enter": "Enter a warehouse",
+    "Quest_Warehouse_FindFarmer": "Find the caged farmer trapped in the top floor",
+    "Quest_Warehouse_SuckFarmer": "Escape the warehouse and let Bertha \"rescue\" the farmer",
+
+    "Quest_Chapter2": "Chapter 2",
+    "Quest_Chapter2_Logbook": "Read \"Chapter 2\" log"
+}

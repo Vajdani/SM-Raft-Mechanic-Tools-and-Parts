@@ -1,0 +1,238 @@
+{
+   "01a4d4c6-469a-4d28-8c69-b74fff83fbdf" : {
+      "description" : "Posadź w Donicy na Drzewo lub na ziemii. Podobno z pomocą dziwnych płynów da się wychodować dziwne drzewa.. ",
+      "title" : "Świerkowa Szyszka"
+   },
+   "03075a5a-92f5-49bd-b132-7d8e0cb80156" : {
+      "description" : "Użyj sygnału logicznego by włączać i wyłaczać. Jest ciężki gdy jest wyłączony, ale bardzo lekki i wyporny gdy jest włączony.",
+      "title" : "Zbiornik Powietrza"
+   },
+   "0db1ecd5-503d-4dd3-807e-869c243a7c08" : {
+      "description" : "Naostrzony patyk, użyteczny do dźgania i ranienia.",
+      "title" : "Dzida"
+   },
+   "1daebe24-4e16-422c-b5e7-c3f45f9296d8" : {
+      "description" : "Pozwala na ścinanie niektórych drzew!",
+      "title" : "Siekiera"
+   },
+   "2af00456-b22e-4743-b338-a91934aba7c5" : {
+      "description" : "Gotuje pyszne jedzenie, które napełni twój pasek zdrowia i przywróci do życia znajomych. Dobrze mieć go na swojej tratwie!",
+      "title" : "Lekki Kukbot"
+   },
+   "4a971f7d-14e6-454d-bce8-0879243c4474" : {
+      "description" : "Z tego składa się twoja tratwa. Postaw ich więcej, by rozbudować lub naprawić swoją tratwę.",
+      "title" : "Podstawa Tratwy"
+   },
+   "4a971f7d-14e6-454d-bce8-0879243c4575" : {
+      "description" : "Ta *grubaśna* podstawa powinna sprawić Rekinobotom problem z przegryzieniem jej..",
+      "title" : "Wzmocniona Podstawa Tratwy"
+   },
+   "4a971f7d-14e6-454d-bce8-0879243c4857" : {
+      "description" : "Szpiczasty i ostry! Użyj go jako amunicji do Działka na Harpuny.",
+      "title" : "Harpun"
+   },
+   "4bd05d7d-898c-4947-8788-e34b84b5d386" : {
+      "description" : "Tlenek Diwodoru (znany też jako w0da). Idealnie sprawdza się do nawadniania roślin, czy też gaszenia pragnienia.",
+      "title" : "Czysta Woda"
+   },
+   "4c1aed86-a402-4240-81e7-b67edf433fd5" : {
+      "description" : "Nie ma nic lepszego od odpoczywania w hamaku i spoglądania w rozległy ocean..",
+      "title" : "Hamak"
+   },
+   "4e69beb8-4519-4fff-a382-fdcfffbad6c2" : {
+      "description" : "Bardziej kompaktowe, ale słabsze.",
+      "title" : "Małe Śmigło"
+   },
+   "509505f1-b772-4acd-9827-f9a605a979ec" : {
+      "description" : "Kliknij 'E' aby przełączyć powiędzy przyciskami. Wydaje sygnał logiczny, gdy wybrany przycisk jest aktywny.",
+      "title" : "Konwerter WSAD"
+   },
+   "5cb15c93-4fa9-48da-9974-2e95ca6c9e1c" : {
+      "description" : "Rafinobot może Ci pomóc rafinować zebrane kłody. Wkładaj je ręcznie lub umieszczaj w kolektorze zasobów ustawionym obok Rafinobota. Dobrze mieć go na swojej tratwie!",
+      "title" : "Lekki Rafinobot"
+   },
+   "67dd0023-023d-46cb-9839-e4ada2609a9b" : {
+      "description" : "Grilluje jedzenie, potrzebuje drewna jako paliwa.",
+      "title" : "Ruszt"
+   },
+   "6db7aacf-f2b3-4cbb-a6d2-2a01d5ee5562" : {
+      "description" : "Wydaje sygnał logiczny gdy dotknie wody.",
+      "title" : "Czujnik Wody"
+   },
+   "71ac7645-57f5-4d49-9574-c8482b431862" : {
+      "description" : "Obraca twoją konstrukcję w oparciu o kierunek twojej kamery lub przyciski A/D. Wejdź z nim w interakcję, by zmienić jego ustawienia. Wydaje sygnał logiczny podczas użycia.",
+      "title" : "Obracacz Konstrukcji"
+   },
+   "767a3121-2c31-473c-a5ab-27e188fdd55a" : {
+      "description" : "Użyj Ciuchbota do wykonania nowych ubrań dla swojego mechanika. Po prostu dodaj skrzynie z odzieżą i odpowiednią ilość bawełny. Możesz także personalizować swój wygląd za pomocą niebieskiej szafy. Dobrze mieć go na swojej tratwie!",
+      "title" : "Lekki Ciuchbot"
+   },
+   "7c440c4a-5919-4baa-a946-0bb89b8c4d5d" : {
+      "description" : "Wciąż bardzo słona.. Niezbyt jadalna..",
+      "title" : "Surowa Ryba"
+   },
+   "7c440c4a-5919-4baa-a946-0bb89b8c4d85" : {
+      "description" : "Ta ryba jest troche SUS",
+      "title" : "Surowy Rybus"
+   },
+   "7ceccadf-010f-4a45-907f-18ccc11c509c" : {
+      "description" : "Twój oddech nie jest wystarczający? Ten przedmiot nie pomoże z twoimi problemami z kondycją, ale przynajmniej pozwoli Ci dłużej wytrzymać pod wodą. Połącz z fotelem by dać swoim plecom chwilę odpoczynku.",
+      "title" : "Butla z Tlenem"
+   },
+   "7ece8b10-5cc0-4791-b75e-09858ef1b9c4" : {
+      "description" : "Płetwy pozwolą Ci pływać z dużo większą prędkością! Dodatkowo wyglądają naprawdę super!",
+      "title" : "Płetwy"
+   },
+   "80c9edb7-0f86-4899-bf60-c3baca3fa841" : {
+      "description" : "Zamienia słoną wodę w zdatną do picia wodę słodką! Wymaga drewna jako paliwa.",
+      "title" : "Oczyszczacz Wody"
+   },
+   "819fb238-a68b-4aab-a6f2-c1037f6bfb5b" : {
+      "description" : "Hoduj drzewa gdzie tylko chcesz! Sadzonki pozyskuj z prawdziwych drzew. (Nie żeby te wyhodowane były sztuczne..)",
+      "title" : "Donica na Drzewo"
+   },
+   "869d4736-289a-4952-96cd-8a40117a2d28" : {
+      "description" : "Wciąż dość słona..",
+      "title" : "Woda"
+   },
+   "885513a7-baa3-44ee-aa6e-7546bf0715a7" : {
+      "description" : "Wpraw je w obroty by twoja tratwa zaczęła robić BRRRRRRR! Jego siła zależy od prędkości i kierunku obrotu. (Dużo mniej wydajne w powietrzu)",
+      "title" : "Śmigło"
+   },
+   "8e75cddb-040e-4813-8dd6-7e72f3288a91" : {
+      "description" : "Pozwala na uprawę roślin na tratwie, nie wywołuje najazdów.",
+      "title" : "Pole z Odzysku"
+   },
+   "8f460344-ef34-42ab-99e3-d3bed9af4b52" : {
+      "description" : "Pokazuje kierunek wiatru.",
+      "title" : "Wskaźnij Wiatru"
+   },
+   "9e815dcf-cfb0-4672-b0f4-34f1e9ecc1a1" : {
+      "description" : "Posadź w Donicy na Drzewo lub na ziemii. Podobno z pomocą dziwnych płynów da się wychodować dziwne drzewa.. ",
+      "title" : "Szyszka Sosny"
+   },
+   "a930a42f-63ed-4fb0-933e-56ce8a889cc5" : {
+      "description" : "Idealny do zbierania i przechowywania kłód. Kiedy się zapełni, umieść go obok Rafinobota, aby zamienić kłody w bloki. Dobrze mieć go na swojej tratwie!",
+      "title" : "Lekki Kolektor Zasobów"
+   },
+   "b5ade3b0-be48-4a61-a8c2-13a4cedf1343" : {
+      "description" : "Zarzuć hak do oceanu by wyciągnąć z niego śmieci prosto do swoich małych, chciwych rączek! Kliknij PPM by zwinąć hak szybciej gdy leci w twoją stronę.",
+      "title" : "Hak"
+   },
+   "b63c6440-dfc2-4da7-acdb-3c385080b2e4" : {
+      "description" : "Wyrobot pomoże ci w wyrabianiu wszystkiego od nowych bloków po przydatne części interaktywne. Najlepszy przyjaciel mechanika. Dobrze mieć go na swojej tratwie!",
+      "title" : "Lekki Wyrobot"
+   },
+   "b84e5fbb-97f2-4de5-bc39-4adb325a56f1" : {
+      "description" : "Posadź w Donicy na Drzewo lub na ziemii. Podobno z pomocą dziwnych płynów da się wychodować dziwne drzewa.. ",
+      "title" : "Żołądź Dębu"
+   },
+   "bb641a4f-e391-441c-bc6d-0ae21a069477" : {
+      "description" : "Drewniany Młot. Użyteczny to wszelkiego rodzaju rzeczy - ale niezbyt skuteczny w żadnej z nich..",
+      "title" : "Drewniany Młot"
+   },
+   "c2418698-7a91-40fa-95a3-3be5ddb3ec1d" : {
+      "description" : "Matka wszystkich pszczół, cóż za zdobycz!",
+      "title" : "Królowa Pszczół"
+   },
+   "c57fe6d6-03b1-46d4-9104-29cf19f176ab" : {
+      "description" : "Wygląda bardzo smakowicie, ale śmierdzi.",
+      "title" : "Grillowana Ryba"
+   },
+   "c80e2932-0d21-48bb-b5a2-dba03d73cfb7" : {
+      "description" : "Podwójna ziemia - podwójna zabawa! Hoduje dwie rośliny na raz. Nie wywołuje najazdów.",
+      "title" : "Duże Pole"
+   },
+   "c883b283-ea7a-4bba-af0d-5c13fd73051d" : {
+      "description" : "Pozwala na kopanie skał na dnie oceanu.",
+      "title" : "Kilof"
+   },
+   "ce986935-5b57-4249-acbb-04ef6666bb03" : {
+      "description" : "Udekoruj nimi swoją tratwę! (i miej nadzieję, że deweloperzy nie dodadzą rozprzestrzeniania się ognia w najbliższym czasie..)",
+      "title" : "Pochodnia"
+   },
+   "e34387d3-fa29-4831-89b8-c94417b6fce6" : {
+      "description" : "Potężna strzelba strzelająca ostrymi harpunami! Możesz podnieść je z powrotem, po upadnięciu na ziemię. Może być używana pod wodą.",
+      "title" : "Działko na Harpuny"
+   },
+   "e3bcf8fa-68d7-49a8-b17b-c1e864d53b69" : {
+      "description" : "Zarzuć haczyk do wody i poczekaj, aż coś zacznie brać.. Wyciągnij, gdy coś złapie się na haczyk i spowoduje duży plusk wody. Ryby mogą walczyć, powodować małe plusknięcia wody oraz wydawać dźwięki! Z morza da się wyłowić wiele dziwnych przedmiotów..",
+      "title" : "Wędka"
+   },
+   "f3aeb880-f103-43c8-947b-d0525eaeb505": {
+	  "title": "Luneta",
+	  "description": "Narzędzie pozwalające na obserwację obiektów z daleka."
+   },
+   "e9c7d080-ae4b-4fec-b626-34afda6f5114" : {
+      "description" : "Sadź. Hoduj. Wyciskaj. Powtarzaj.",
+      "title" : "Wyciskarka do Nasion"
+   },
+   "ebabda72-94d8-40c5-ab07-7001d1b67380" : {
+      "description" : "O nie, tylko nie pszczoły! Jeżeli zdołasz złapać Królową Pszczół, możesz mieć swój własny ul! Delektuj się świeżym miodkiem! i użądleniami..",
+      "title" : "Pasieka"
+   },
+   "eea9794b-bcdf-431e-bdcd-7b2ff6ffa145" : {
+      "description" : "Opanuj moc wiatru! Upewnij się, że ustawiony jest w odpowiednią stronę, by zwiększyć uzyskaną siłę. Wskaźnik Wiatru może Ci w tym pomóc!",
+      "title" : "Żagiel"
+   },
+   "eefb0967-d21c-445e-8120-0a09422e1374" : {
+      "description" : "Posadź w Donicy na Drzewo lub na ziemii. Podobno z pomocą dziwnych płynów da się wychodować dziwne drzewa.. ",
+      "title" : "Szyszka Brzozy"
+   },
+   "f3163e62-e6c3-475c-805e-559f8bb07ad1" : {
+      "description" : "Używany do wytwarzania niezbędnych przedmiotów dla Ciebie i twojej tratwy.",
+      "title" : "Stół Rzemieślniczy"
+   },
+   "f95beb80-49c8-4d4c-98e9-5b87225c4570" : {
+      "description" : "Pomocy?\n...\n\nCzy ktoś mnie słyszy?\n...",
+      "title" : "Amatorska Antenna Radiowa"
+   },
+   "7c440c4a-5919-4baa-a946-0bb89b8c4d5e" : {
+      "description" : "Wiem czym jest mat w jednym.. właśnie przegapiłeś En Passant!",
+      "title" : "Le Fishe Au Chocolat"
+   },
+   "74a3f240-65b2-4f52-9555-666217366a0a" : {
+      "description" : "Nie najlepsze z żywności, ale przynajmniej dość jadalne..",
+      "title" : "Surowy Schab z Aworka"
+   },
+   "74a3f240-65b2-4f52-9555-666217366a0e" : {
+      "description" : "Idealnie średnio-krwisty!",
+      "title" : "Grillowany Schab z Aworka"
+   },
+   "f2382297-44b4-4259-99ce-b11da671ac51" : {
+      "description" : "Zbiera oceaniczne śmieci za Ciebie! Ty uzależniony od SunShake'a leniu..",
+      "title": "Siatka Zbierająca"
+   },
+   "56dc8c15-ccc5-46c8-bd56-46bb6bfc85c9" : {
+      "description" : "Sztuczny hamak dla porzuconych tratw, żeby ludzie na nich nie spali i nie niszczyli sobie spawn-point'u..",
+      "title": "Porzucony Hamak"
+   },
+   "795da2f8-ce95-4b34-9d89-1ef84f74e36a" : {
+      "description" : "Wygląda jak podstawa tratwy, ale nie ma zbyt dobrej wyporności. Idealnie sprawdza się jako podłoga wyższych pokładów!",
+      "title" : "Podłoga Tratwy"
+   },
+   "4d0dce2f-7bee-4c38-be21-c8a5ce083f1a" : {
+      "description" : "Wygląda jak wzmocniona podstawa tratwy, ale nie ma zbyt dobrej wyporności. Idealnie sprawdza się jako podłoga wyższych pokładów!",
+      "title" : "Wzmocniona Podłoga Tratwy"
+   },
+    "4a1888f7-7376-49aa-97a0-1aaf1ae75e2a" : {
+      "description" : "Znalazłeś ją, brawo!!\n\n\n\n#050505Materia w jej pobliżu wydaje się niestabilna..\n\n#212328Dart Frog reference :D",
+      "title" : "Zmrożona Mrówka"
+   },
+   "49350ac2-f7dc-457d-b29d-a2f117670f86" : {
+      "description" : "Pozwala wejść ci na wyższy poziom gry.",
+      "title" : "Podłoga tratwy zakręt wewnętrzny"
+   },
+   "811ea5d1-a2bf-4db7-b1c3-a86cee2c9e94" : {
+      "description" : "Pozwala wejść ci na wyższy poziom gry.",
+      "title" : "Podłoga tratwy zakręt zewnętrzny"
+   },
+   "3a880447-6556-4278-9356-7be8bf6a8ae9" : {
+      "description" : "Użyj tego żeby nie padało ci na głowę. Bardzo zielony rodzaj sufitu.",
+      "title" : "Sufit tratwy z liści zakręt wewnętrzny"
+   },
+   "7a13d6ff-ceee-461b-b143-308e2589b07d" : {
+      "description" : "Użyj tego żeby nie padało ci na głowę. Bardzo zielony rodzaj sufitu.",
+      "title" : "Sufit tratwy z liści zakręt zewnętrzny"
+   }
+}

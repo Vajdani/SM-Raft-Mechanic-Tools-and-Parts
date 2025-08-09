@@ -1,0 +1,17 @@
+{
+   "allow_add_mods" : true,
+   "custom_icons" : false,
+   "dependencies" : [
+      {
+         "fileId" : 3224128169,
+         "localId" : "26b2f950-82f5-48f8-b0e4-8ca1d27ecfb4",
+         "name" : "Custom Loot"
+      }
+   ],
+   "description" : "[b]Play with everything from Raft Mechanic, but in creative!(no sharks though)[/b]\n[b]Thanks to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2816900681]Questionable Mark's Modded Craftbot Recipes[/url], they're also craftable in survival![/b]\n\n[b]Custom loot in survival available via the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3224128169]Custom Loot[/url] mod[/b]\n\nMore info about the mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807590049]here[/url]!\n\nPlease leave all suggestions and ideas for Raft Mechanic on the custom game(linked above) instead of this mod.",
+   "fileId" : 2824149581.0,
+   "localId" : "fed51d61-bc85-420d-82af-b645f2a23145",
+   "name" : "Raft Mechanic: Tools & Parts For Creative",
+   "type" : "Blocks and Parts",
+   "version" : 1
+}

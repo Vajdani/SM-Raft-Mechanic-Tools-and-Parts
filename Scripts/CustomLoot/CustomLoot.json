@@ -1,0 +1,14 @@
+{
+    "loot_beehive": {
+        "slots": 1,
+        "overallChance": 7,
+        "randomLoot": [
+            {
+                "uuid": "c2418698-7a91-40fa-95a3-3be5ddb3ec1d",
+                "quantity": 1,
+                "chance": 1,
+                "lootName": "Bee Queen"
+            }
+        ]
+    }
+}

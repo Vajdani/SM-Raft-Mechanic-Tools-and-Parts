@@ -1,0 +1,32 @@
+[
+    {
+        //Fish
+        "uuid": "7c440c4a-5919-4baa-a946-0bb89b8c4d5d",
+        "rarity": 1000,
+        "location": { "xMin": -72, "xMax": 71, "yMin": -56, "yMax": 55},
+        "time": {"min": 0, "max": 1},
+        "triggers": {"water": true, "chemical": false, "oil": false},
+        "baits": ["none"],
+        "biteTime": 1.0
+    },
+	{
+        //Frozen Ant
+        "uuid": "4a1888f7-7376-49aa-97a0-1aaf1ae75e2a",
+        "rarity": 10,
+        "location": { "xMin": -72, "xMax": 71, "yMin": -56, "yMax": 55},
+        "time": {"min": 0, "max": 1},
+        "triggers": {"water": true, "chemical": false, "oil": false},
+        "baits": ["none"],
+        "biteTime": 1.0
+    },
+	{
+        //Fishe au Chocolat
+        "uuid": "7c440c4a-5919-4baa-a946-0bb89b8c4d5e",
+        "rarity": 20,
+        "location": { "xMin": -72, "xMax": 71, "yMin": -56, "yMax": 55},
+        "time": {"min": 0, "max": 1},
+        "triggers": {"water": true, "chemical": false, "oil": false},
+        "baits": ["none"],
+        "biteTime": 1.0
+    }
+]
